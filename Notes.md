@@ -19,9 +19,9 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 📸 Evidence:  
 <p float="left">
-  <img src="./Evidence/Added to group.png" width="30%" />
-  <img src="./Evidence/Added to group EC2.png" width="30%" />
-  <img src="./Evidence/User added to group.png" width="30%" />
+  <img src="./Evidence/Added to group.png" width="50%" />
+  <img src="./Evidence/Added to group EC2.png" width="50%" />
+  <img src="./Evidence/User added to group.png" width="50%" />
 </p>  
 
 ---
@@ -32,9 +32,9 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 📸 Evidence:  
 <p float="left">
-  <img src="./Evidence/inspecting-policy-1.png" width="30%" />
-  <img src="./Evidence/inspecting-policy-2.png" width="30%" />
-  <img src="./Evidence/inspecting-policy-3.png" width="30%" />
+  <img src="./Evidence/Inspect-iam-1.png" width="50%" />
+  <img src="./Evidence/Inspect-iam-2.png" width="50%" />
+  <img src="./Evidence/Inspect-iam-3.png" width="50%" />
 </p>  
 
 ---
@@ -45,9 +45,9 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 📸 Evidence:  
 <p float="left">
-  <img src="./Evidence/signin-url-1.png" width="30%" />
-  <img src="./Evidence/signin-url-2.png" width="30%" />
-  <img src="./Evidence/signin-url-3.png" width="30%" />
+  <img src="./Evidence/signin-url-1.png" width="50%" />
+  <img src="./Evidence/signin-url-2.png" width="50%" />
+  <img src="./Evidence/signin-url-3.png" width="50%" />
 </p>  
 
 ---
@@ -58,9 +58,9 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 📸 Evidence:  
 <p float="left">
-  <img src="./Evidence/policy-effect-1.png" width="30%" />
-  <img src="./Evidence/policy-effect-2.png" width="30%" />
-  <img src="./Evidence/policy-effect-3.png" width="30%" />
+  <img src="./Evidence/policy-effect-1.png" width="50%" />
+  <img src="./Evidence/policy-effect-2.png" width="50%" />
+  <img src="./Evidence/policy-effect-3.png" width="50%" />
 </p>  
 
 ---
