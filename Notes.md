@@ -19,9 +19,9 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 📸 Evidence:  
 <p float="left">
-  <img src="./Evidence/adding-users-1.png" width="30%" />
-  <img src="./Evidence/adding-users-2.png" width="30%" />
-  <img src="./Evidence/adding-users-3.png" width="30%" />
+  <img src="./Evidence/Added to group.png" width="30%" />
+  <img src="./Evidence/Added to group EC2.png" width="30%" />
+  <img src="./Evidence/User added to group.png" width="30%" />
 </p>  
 
 ---
