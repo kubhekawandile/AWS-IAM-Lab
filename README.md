@@ -26,11 +26,11 @@ For a full step-by-step walkthrough, screenshots, lessons learned, and control m
 
 ---
 
-🔗 **GitHub:** [AWS IAM Lab](https://github.com/kubhekawandile/AWS-IAM-Lab)
+ **GitHub:** [AWS IAM Lab](https://github.com/kubhekawandile/AWS-IAM-Lab)
 
 
 ##  Repo Contents  
 - **Evidence/** – Screenshots from the AWS console  
-- **Write-up/** – Detailed notes with risks identified, key takeaways, lessons learned, and mapped controls  
+- **Notes.md/** – Detailed notes with risks identified, key takeaways, lessons learned, and mapped controls  
 - **README.md** – Project overview  
 
