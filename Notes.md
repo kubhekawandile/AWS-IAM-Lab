@@ -1,6 +1,6 @@
 # AWS IAM Lab – Notes & Control Mapping  
 
-## 🎯 Objectives  
+##  Objectives  
 The purpose of this lab was to gain hands-on experience with **AWS Identity and Access Management (IAM)** by:  
 
 - Exploring pre-created IAM Users and Groups  
@@ -11,13 +11,13 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 ---
 
-## 📝 What I Did in the Lab  
+##  What I Did in the Lab  
 
 ### 1. Adding Users to Groups  
 - Added users into groups with specific capabilities enabled.  
 - Verified that permissions were automatically inherited from the group.  
 
-📸 Evidence:  
+ Evidence:  
 <p float="left">
   <img src="./Evidence/Added to group.png" width="50%" />
   <img src="./Evidence/Added to group EC2.png" width="50%" />
@@ -30,7 +30,7 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 - Reviewed JSON policies applied to pre-created groups.  
 - Confirmed which AWS services were allowed/denied.  
 
-📸 Evidence:  
+ Evidence:  
 <p float="left">
   <img src="./Evidence/Inspect-iam-1.png" width="50%" />
   <img src="./Evidence/Inspect-iam-2.png" width="50%" />
@@ -43,7 +43,7 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 - Located and used the IAM sign-in URL to test access.  
 - Verified that users could log in with their assigned credentials and only access what was granted.  
 
-📸 Evidence:  
+ Evidence:  
 <p float="left">
   <img src="./Evidence/signin-url-1.png" width="50%" />
   <img src="./Evidence/signin-url-2.png" width="50%" />
@@ -56,7 +56,7 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 - Signed in with test user accounts to confirm access aligned with least privilege.  
 - Attempted to access services outside the assigned policy scope — access was denied as expected.  
 
-📸 Evidence:  
+ Evidence:  
 <p float="left">
   <img src="./Evidence/policy-effect-1.png" width="50%" />
   <img src="./Evidence/policy-effect-2.png" width="50%" />
@@ -65,7 +65,7 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 ---
 
-## 📚 Lessons Learned  
+##  Lessons Learned  
 - Users automatically **inherit permissions** from their assigned groups.  
 - **AWS managed policies** are read-only and cannot be modified by customers.  
 - **IAM roles** provide temporary, scoped access to AWS resources and improve security posture.  
@@ -75,7 +75,7 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 ---
 
-## ⚠️ Risks Identified (Own Initiative)  
+## ⚠ Risks Identified (Own Initiative)  
 - **No MFA enabled** for users (not part of lab design):  
   - Risk → Compromised credentials could allow unauthorized access.  
 - **Overly permissive accounts**:  
@@ -85,7 +85,7 @@ The purpose of this lab was to gain hands-on experience with **AWS Identity and 
 
 ---
 
-## 🛡️ Control Mapping  
+## 🛡 Control Mapping  
 
 | Risk / Weakness                       | Control Objective                                                                 | Standards / Frameworks |
 |---------------------------------------|-----------------------------------------------------------------------------------|-------------------------|
